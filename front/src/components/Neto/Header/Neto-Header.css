@@ -1,0 +1,10 @@
+.Neto-Header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.Neto-Title {
+  font-size: 16px;
+}

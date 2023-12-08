@@ -1,0 +1,7 @@
+.NotFound-Img {
+  position: absolute;
+  top: calc(100vh -100px);
+  left: cal(100vw - 150px);
+  max-width: 100%;
+  max-height: 100%;
+}

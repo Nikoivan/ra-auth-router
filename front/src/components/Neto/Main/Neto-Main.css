@@ -1,0 +1,10 @@
+.NetoMain {
+  margin: 15px;
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #615f5f;
+  border-radius: 5px;
+}

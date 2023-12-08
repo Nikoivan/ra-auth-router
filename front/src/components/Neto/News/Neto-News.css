@@ -1,0 +1,6 @@
+.Neto-News {
+  list-style-type: none;
+  gap: 10px;
+  display: flex;
+  flex-wrap: wrap;
+}

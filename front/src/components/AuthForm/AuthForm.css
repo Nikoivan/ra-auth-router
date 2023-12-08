@@ -1,0 +1,10 @@
+.AuthForm {
+  display: flex;
+  gap: 15px;
+}
+
+.AuthForm-Item {
+  max-width: 80px;
+  padding: 0 5px;
+  margin: auto;
+}
